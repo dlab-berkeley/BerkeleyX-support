@@ -1,0 +1,14 @@
+# Site settings
+title: BerkeleyX Support
+email: davclark@berkeley.com
+description: > # this means to ignore newlines until "baseurl:"
+    BerkeleyX support is currently provided on a limited basis by the D-Lab. We
+    are actively working to create and fill a posisition that will serve you
+    better!
+baseurl: "/BerkeleyX-support" # the subpath of your site, e.g. /blog/
+url: "http://dlab-berkeley.github.io" # the base hostname & protocol for your site
+twitter_username: DLabAtBerkeley
+github_username: dlab-berkeley
+
+# Build settings
+markdown: kramdown
