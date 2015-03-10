@@ -1,0 +1,10 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: osx-64
+boto
+ipython-notebook
+pandas=0.15.2
+pip
+pymongo
+python=3.4.2=0
+six
